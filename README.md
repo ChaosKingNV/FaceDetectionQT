@@ -18,20 +18,6 @@ FaceDetectionQT is designed to:
 - **GUI Built with Qt:** Offers a clean and interactive interface for users.
 - **Photo Saving:** Captures and stores images of detected individuals in a specified directory.
 
-## Repository Structure
-
-```
-.
-├── src/                # Source code files
-├── assets/             # Haar Cascade model and pre-trained models
-├── photos/             # Saved photos of detected individuals
-├── ui/                 # Qt UI files
-├── docs/               # Documentation and guides
-├── build/              # Build directory (created after compilation)
-├── LICENSE             # License information
-└── README.md           # This file
-```
-
 ## Prerequisites
 
 To compile and run the project, you will need:
